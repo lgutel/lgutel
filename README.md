@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @lgutel
-- 👀 I’m interested by information networks, programming and telecommunications
-- 🌱 I’m currently learning at the IUT networks and telecoms of La Rochelle with the cybersecurity course
+- 👀 I’m interested by information networks, programming, telecommunications and cybersecurity
+- 🌱 I’m currently learning at the IUT networks and telecoms of La Rochelle with the cybersecurity cours
+- My portfolio is here [https://github.io](https://lgutel.github.io/portfolio/)
+
+  
 
 <!---
 lgutel/lgutel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
